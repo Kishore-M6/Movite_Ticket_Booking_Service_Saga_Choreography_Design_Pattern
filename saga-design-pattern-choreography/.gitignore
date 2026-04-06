@@ -1,0 +1,15 @@
+# Logs
+*.log
+
+# Build
+target/
+*.jar
+*.class
+
+# ELK tools
+ELK/
+*.zip
+
+# IntelliJ
+.idea/
+*.iml
